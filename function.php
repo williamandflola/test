@@ -68,6 +68,7 @@ $array = array(1,2,3,4,5,6,);
 array_output($array);
 //引数の型を配列のみに設定したにも関わらずそれ以外のものを引数としたため
 array_output(1);
+//aaaaaa
 
 
 
